@@ -2,13 +2,21 @@
 Maximal Variance Node Merging
 
 % converts a channel level network into a region-level network using MVNM
+
 % inputs
+
 % adj_train -- a 3D channel-level adjacenecy matrix of causal networks of size DxDxN where D is the number of channels/nodes and N is the number of  networks
+
 % adj_val -- is a validation set of networks that use the training set's PCA coeffciceints to apply MVNM
-% TargetElectrodes -- region information a cell array where entry is an array with channel indices that belong to the same region
+
+% TargetElectrodes -- region information a cell array where each entry is an array with channel indices that belong to the same region
+
 % number of cells/rows in TargetElectrodes is the number of regions 
+
 % outputs
-% adj_region_train -- regoin level networks training data
+
+% adj_region_train -- region level networks training data
+
 % adj_region_val -- region level networks validation data
 
 
