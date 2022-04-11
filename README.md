@@ -15,3 +15,4 @@ Maximal Variance Node Merging
 Cite:
 
 Sandeep Avvaru, Noam Peled, Nicole R. Provenza, Alik S. Widge, and Keshab K. Parhi. Region-level functional and effective network analysis of human brain during cognitive task engagement. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 29:1651–1660, 2021.
+https://ieeexplore.ieee.org/document/9514845
